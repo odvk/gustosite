@@ -273,7 +273,7 @@ header .intro-text {
 	text-align: center;
 }
 #restaurant-menu .menu-item {
-	margin: 45px 0;
+	/*margin: 45px 0;*/
 	font-size: 18px;
 }
 #restaurant-menu .menu-item-name {
@@ -292,6 +292,15 @@ header .intro-text {
 	color: #555;
 	margin-top: -36px;
 }
+
+/* ------------- Мои правки ДК ---------------*/
+
+/*.restaurant-menu .menu-item {*/
+/*	display: inline-block;*/
+/*	width: 45%;*/
+/*	margin-right: 20px;*/
+/*}*/
+
 /* Gallery Section */
 #gallery {
 	padding: 0;
